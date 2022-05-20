@@ -180,19 +180,19 @@ section.resume-section .resume-item .resume-date {
 }
 
 .bg-primary {
-  background-color: rgb(255, 171, 68) !important;
+  background-color: #f8c8dc !important;
 }
 
 .text-primary {
-  color: rgb(241, 159, 34) !important;
+  color: #f8c8dc !important;
 }
 
 a {
-  color: rgb(241, 159, 34);
+  color: #f387b4;
 }
 
 a:hover, a:focus, a:active {
-  color: rgb(241, 159, 34);
+  color: #b63b6f;
 }
 
 /*Bounce arrow*/
